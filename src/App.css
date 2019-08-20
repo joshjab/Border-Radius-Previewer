@@ -30,6 +30,13 @@
   text-align: center;
   padding: 50px;
   margin: 20px;
+  border-radius: 40% 40% 40% 40%;
+}
+
+.cssbox {
+  width: '30rem';
+  height: 300px;
+  overflow: scroll;
 }
 
 @keyframes App-logo-spin {
